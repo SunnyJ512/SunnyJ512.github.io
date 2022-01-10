@@ -16,7 +16,13 @@ redirect_from:
 ## Brief Biography
 Jin Sun is a graduate student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/). He completed his BS at [College of Computer Science and Technology, China University of Petroleum](http://www.upc.edu.cn/).
 
-His current research interests include Recommender System and Graph Neural Network.
-
 ## Professional experience
--JD.com Group-JD.com Technology-Risk Management Center-Intelligent Model Department Model Engineering Group. **Software development engineer**
+- JD.com Group-JD.com Technology-Risk Management Center-Intelligent Model Department Model Engineering Group. **Software development engineer**
+## Skill List
+- Master the basic knowledge of Java: collection, concurrency and other core technology stacks.
+- Understand the JVM memory model, GC mechanism and class loading mechanism, and be familiar with common garbage collectors.
+- Familiar with MySQL application development, understand database transaction isolation level, indexing principle, and performance optimization.
+- Familiar with Redis, understand the underlying data structure, persistence, cluster mode, and distributed locks of Redis.
+- Familiar with Spring, SpringMVC and MyBatis framework, understand Spring's IOC and AOP features.
+- Learn about HTTP, TCP/IP and other protocols in computer networks.
+- Understand common data structures and algorithms.
