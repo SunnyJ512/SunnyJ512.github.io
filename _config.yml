@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jin, Sun"
+  #name             : "Jin, Sun"
   avatar           : "self.jpg"
   bio              : "Graduate student in Chongqing University"
   location         : "Chongqing, China"
