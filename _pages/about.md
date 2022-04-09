@@ -18,6 +18,7 @@ During postgraduate studies, his research interests were computer vision and sof
 
 ## Professional Experience
 -(2021.9-2022.1) JD.com Group - JD.com Technology - Risk Management Center-Intelligent Model Department Model Engineering Group. **Software Engineer**
+
 -(2022.3-now) ByteDance - Interactive Entertainment R&D - Live Streaming - Service Shelf. **Software Engineer**
 
 ## Skill List
