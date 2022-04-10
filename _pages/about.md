@@ -13,8 +13,9 @@ redirect_from:
 * Email: sunjin@cqu.edu.cn
 
 ## Brief Biography
-Jin Sun is a graduate student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/), whose tutor is Hong Sha. He completed his BS at [College of Computer Science and Technology, Chongqing University of Technology](https://www.cqut.edu.cn/).
-During postgraduate studies, his research interests were computer vision and software engineering.
+Jin Sun is a graduate student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/), whose tutor is Hong Sha. During graduate studies, his research interests were computer vision and software engineering.
+
+He completed his BS at [College of Computer Science and Technology, Chongqing University of Technology](https://www.cqut.edu.cn/).
 
 ## Professional Experience
 -(2021.9-2022.1) JD.com Group - JD.com Technology - Risk Management Center-Intelligent Model Department Model Engineering Group. **Software Engineer**
