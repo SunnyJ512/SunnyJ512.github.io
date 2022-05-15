@@ -30,3 +30,8 @@ He completed his BS at [College of Computer Science and Technology, Chongqing Un
 - Familiar with Spring, SpringMVC and MyBatis framework, understand Spring's IOC and AOP features.
 - Learn about HTTP, TCP/IP and other protocols in computer networks.
 - Understand common data structures and algorithms.
+
+## Hobbies and Interests
+- Coding && Running
+- Focus on **Server Dvelopment**
+- Interested in deep learning, cloud native
