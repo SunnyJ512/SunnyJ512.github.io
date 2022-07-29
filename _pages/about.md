@@ -31,6 +31,10 @@ redirect_from:
 - Learn about HTTP, TCP/IP and other protocols in computer networks.
 - Understand common data structures and algorithms.
 
+
+## Paper
+- His paper, **Semi-supervised Active Learning for Semantic Segmentation via Pixel-wise Consistency** has been accepted by CCF conference.
+
 ## Hobbies and Interests
 - Coding && Running
 - Focus on **Server Dvelopment**
